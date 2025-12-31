@@ -102,7 +102,7 @@ const IntegrationsDark: React.FC = () => {
                 <div className="relative z-10 w-[110px] h-[110px] bg-white rounded-full flex items-center justify-center shadow-[0_0_60px_rgba(255,255,255,0.2)] animate-heartbeat cursor-pointer group">
                   <div className="absolute inset-0 rounded-full border-4 border-white opacity-20 group-hover:scale-150 transition-transform duration-500" />
                   <Image 
-                    src="https://res.cloudinary.com/dwfqp6qz1/image/upload/v1767197078/th1-heart-logo_vhmoqj.png" 
+                    src="https://slelguoygbfzlpylpxfs.supabase.co/storage/v1/object/public/test-clones/f31a6e5f-b749-4c81-9877-7b46341684ac-theone-1-webflow-io/assets/images/65d082c2366f5933de08c5fb_Untitled_20design-19.png" 
                     alt="Theone Logo" 
                     width={60} 
                     height={60}
